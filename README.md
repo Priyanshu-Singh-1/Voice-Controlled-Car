@@ -20,3 +20,6 @@ All the connections is available in the assest folder.
 # How to implement connection
 After the project have been fullt constructed. You need to connect the HC-05 module with you android device.
 You can download the application from here: https://drive.google.com/drive/folders/1b-aIEizxhzedasWocCPSmk-Xz8eDvtQI?usp=sharing
+
+# Demo of the Digital Piano
+https://www.tinkercad.com/things/aZaBvdxYx2V-piano-priyanshu-singh/editel?sharecode=yBwgSQlee2PrC3-7VeQSqwBSnBiPZYAPuADNgpXYvA4
